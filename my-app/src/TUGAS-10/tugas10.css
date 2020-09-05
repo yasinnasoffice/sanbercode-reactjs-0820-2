@@ -1,0 +1,17 @@
+.TableBuah {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(126, 126, 126);
+    padding: 50px;
+    width: 40%;
+  }
+  
+  .TableBuah td,
+  .tTableBuah th {
+    border: 1px solid darkorange;
+    padding: 8px;
+    font-size:13px;
+  }
+  
+  
+  
+  
